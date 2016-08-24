@@ -2,7 +2,7 @@ public class StringTest {
   public static void main(String[] args) {
     String a = "now is ";
     String b = "the time ";
-    String c = "to ";
+    String c = "to to to to";
     StdOut.println(a.length());
     StdOut.println(a.charAt(4));
     StdOut.println(a.concat(c));
