@@ -1,4 +1,5 @@
 public class TestAccumulator{
+
   @Deprecated
   public static void main(String[] args) {
     int T = Integer.parseInt(args[0]);
@@ -8,4 +9,5 @@ public class TestAccumulator{
       StdOut.println(a);
     }
   }
+
 }
