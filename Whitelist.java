@@ -1,4 +1,6 @@
 public class Whitelist {
+
+  @Deprecated
   public static void main(String[] args)
   {
     int[] w = In.readInts(args[0]);

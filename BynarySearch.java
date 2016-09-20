@@ -1,19 +1,4 @@
-/*
-tinyT.txt [23, 50, 10, 99, 18, 23, 98, 84, 11,
- 10, 48, 77, 13, 54, 98, 77, 77, 68]
 
-tinyW.txt [01 (23) (98) (84) (11) 02 03
- 04 05 06 07 08 09 100 200 300 400]
-
- saida: 50 10 99 18 10 48 77 13 54 77 77 68
-
-O algoritmo de busca binária compara o conteudo do arquivo tinyW com o tinyT
-oara verificar quais são os números que não se repetem no arquivo tinyT.
-somente os números não repetidos em tinyt serão exibidos, enquanto que os números
-não repetidos de tinyW permanecem os mesmos.
-
-
-*/
 
 import java.util.Arrays;
 
